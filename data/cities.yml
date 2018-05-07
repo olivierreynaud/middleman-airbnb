@@ -1,0 +1,12 @@
+- name: Liston
+  address: "rue de la roquetta"
+  picture: https://kitt.lewagon.com/placeholder/cities/lisbon
+  user: https://kitt.lewagon.com/placeholder/users/graysdays
+- name: London
+  address: "street of the rocket"
+  picture: https://kitt.lewagon.com/placeholder/cities/london
+  user: https://kitt.lewagon.com/placeholder/users/graysdays
+- name: Paris
+  address: "rue de la roquette"
+  picture: https://kitt.lewagon.com/placeholder/cities/paris
+  user: https://kitt.lewagon.com/placeholder/users/graysdays
